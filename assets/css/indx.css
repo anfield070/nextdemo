@@ -1,0 +1,8 @@
+.main-content {
+  margin-top: 30px;
+}
+
+.error {
+  background-color: red;
+  color: white;
+}
