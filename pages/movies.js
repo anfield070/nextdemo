@@ -1,8 +1,7 @@
 import React from "react";
 
 export default function Movies({ movies, randomData }) {
-  // debugger;
-  // console.log(1111);
+  debugger;
   return (
     <div>
       <h1>Movies </h1>
